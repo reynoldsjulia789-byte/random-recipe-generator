@@ -1,6 +1,6 @@
 # Randomized Design Inspiration
 
-> Randomized inpspiration to hopefully spark design ideas. 
+Randomized inpspiration to hopefully spark design ideas. 
 
 ## What is this?
 - Website that generates random quotes and colors of inspiration.
