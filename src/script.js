@@ -100,7 +100,7 @@ const dishes =
     ingredients:  "pita, meat, tomatoes, pickled red onion, lettuce, tzatziki sauce"
   },
   {
-    dish:         "Sweedish Meatballs",
+    dish:         "Swedish Meatballs",
     ingredients:  "meatballs, butter, flour, broth, Worcestershire sauce, Dijon mustard, parsley, sour cream"
   },
   {
@@ -116,7 +116,7 @@ const dishes =
     ingredients:  "chicken, bacon, butter, onion, peppers, celery, flour, broth, potatoes, corn, heavy cream"
   },
   {
-    dish:         "Chilli",
+    dish:         "Chili",
     ingredients:  "ground beef, onion, tomato paste, canned diced tomatoes, beans, sour cream, cheese"
   },
   {
