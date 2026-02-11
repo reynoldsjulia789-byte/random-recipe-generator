@@ -190,3 +190,6 @@ function getRandomDish()
 
 // Add event listener to button
 refreshBtn.addEventListener("click", getRandomDish);
+
+// Calls method when script loads to immediately populate page with suggestion
+getRandomDish();
