@@ -23,23 +23,23 @@ const bgDirection =
 // Tailwind Background Utlities
 const startColors =
 [
-  "from-red-500",
-  "from-orange-500",
-  "from-amber-500",
-  "from-yellow-500",
-  "from-lime-500",
-  "from-green-500",
-  "from-emerald-500",
-  "from-teal-500",
-  "from-cyan-500",
-  "from-sky-500",
-  "from-blue-500",
-  "from-indigo-500",
-  "from-violet-500",
-  "from-purple-500",
-  "from-fuchsia-500",
-  "from-pink-500",
-  "from-rose-500"
+  "from-red-700",
+  "from-orange-700",
+  "from-amber-700",
+  "from-yellow-700",
+  "from-lime-700",
+  "from-green-700",
+  "from-emerald-700",
+  "from-teal-700",
+  "from-cyan-700",
+  "from-sky-700",
+  "from-blue-700",
+  "from-indigo-700",
+  "from-violet-700",
+  "from-purple-700",
+  "from-fuchsia-700",
+  "from-pink-700",
+  "from-rose-700"
 ];
 
 const middleColors =
@@ -65,23 +65,23 @@ const middleColors =
 
 const endColors =
 [
-  "to-red-500",
-  "to-orange-500",
-  "to-amber-500",
-  "to-yellow-500",
-  "to-lime-500",
-  "to-green-500",
-  "to-emerald-500",
-  "to-teal-500",
-  "to-cyan-500",
-  "to-sky-500",
-  "to-blue-500",
-  "to-indigo-500",
-  "to-violet-500",
-  "to-purple-500",
-  "to-fuchsia-500",
-  "to-pink-500",
-  "to-rose-500"
+  "to-red-700",
+  "to-orange-700",
+  "to-amber-700",
+  "to-yellow-700",
+  "to-lime-700",
+  "to-green-700",
+  "to-emerald-700",
+  "to-teal-700",
+  "to-cyan-700",
+  "to-sky-700",
+  "to-blue-700",
+  "to-indigo-700",
+  "to-violet-700",
+  "to-purple-700",
+  "to-fuchsia-700",
+  "to-pink-700",
+  "to-rose-700"
 ];
 
 // Sample design dishes JSON data
