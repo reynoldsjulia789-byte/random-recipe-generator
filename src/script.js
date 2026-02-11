@@ -144,7 +144,7 @@ const dishes =
     ingredients:  "chicken, carrots, celery, onion, butter, flour, broth, heavy cream, pie crust, egg"
   },
   {
-    dish:         "Encheladas",
+    dish:         "Enchiladas",
     ingredients:  "tortillas, meat, onion, enchelada sauce, cheese, sour cream, tomatoes, cilantro"
   },
   {
